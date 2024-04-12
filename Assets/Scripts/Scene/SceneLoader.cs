@@ -6,7 +6,6 @@ public class SceneLoader : MonoBehaviour
     public static SceneLoader Instance;
 
     [SerializeField] private string _systemScene = "SystemScene";
-    [SerializeField] private string _menuScene = "MenuScene";
     [SerializeField] private string _baseScene = "BaseScene";
     [SerializeField] private string _lvl1Scene = "_LVL1Scene";
 
